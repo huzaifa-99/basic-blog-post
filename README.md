@@ -1,5 +1,5 @@
 # Basic-Blog-Post-PHP
-This is my third project on web development based on core PHP and MySQL some AJAX. It also uses a WYSIWYG editor(CkEditor) for writing blog posts.
+This is my third project on web development based on core PHP and MySQL and some AJAX. It also uses a WYSIWYG editor(CkEditor) for writing blog posts.
 
 # Tecnologies 
   * PHP-7
@@ -7,7 +7,7 @@ This is my third project on web development based on core PHP and MySQL some AJA
   * HTML
   * CSS
   * MySQL
-  * AJAX
+  * AJAX/Javascript
   * CkEditor
 
 # Interface
@@ -29,7 +29,7 @@ The write post will first check if the user is login
  * Finally, to run the project type the link http://localhost[:PORT_NO_IF_ANY]/ [the name of the project folder with directory]/ into the URL bar of the browser, which will take you to the index.php page. The process after that is already explained above.
 
 # Project Demo
-A demo video is available on [https://youtu.be/UdnHagWTQss]. Previews are also available on this repo in `Previews` Folder
+A demo video is available on [demo-video]. Previews are also available on this repo in `Previews` Folder
 
 # More Info
 The project was created 11 months before today(28/8/2020) on PHP-7.0 version, i had used Ajax for the first time in this project and i also used a WYSIWYG editor (ckeditor) for the first time in this project.
