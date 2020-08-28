@@ -41,7 +41,7 @@ A user on a single post can
  * **Note:-** I have used the CDN for CkEditor `<script src="//cdn.ckeditor.com/4.13.1/full/ckeditor.js"></script>`, in case, if it does not work, i have also added `ckeditor.zip` folder(in the `code` folder) which can be linked in the `writepost.php` page.
 
 # Project Demo
-A demo video is available on [demo-video]. Previews are also available on this repo in `Previews` Folder
+A demo video is available on [https://youtu.be/WtdI76nTQoE]. Previews are also available on this repo in `Previews` Folder
 
 # More Info
 The project was created 11 months before today(28/8/2020) on PHP-7.0 version, i had used Ajax and i also used a WYSIWYG editor (ckeditor) for the first time in this project.
