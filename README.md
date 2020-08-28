@@ -30,19 +30,20 @@ A user on a single post can
  * reply to a comment
  * delete his own comment. If he is the author of the post, he can also delete the post.
  
-   **All of these features use Ajax Calls.**
+ **All of these features use Ajax Calls.**
 
 
 # Project Installation
  * Download the project and unzip. 
  * Next, the `code` folder must be placed into the `htdocs` folder.
  * Database (in `database` folder) must be imported into MySQL for the code to function properly, Database username and password are the default ones for Xampp.
- * Finally, to run the project type the link http://localhost[:PORT_NO_IF_ANY]/ [the name of the project folder with directory]/ into the URL bar of the browser, which will take you to the index.php page. The process after that is already explained above.
+ * Finally, to run the project type the link `http://localhost[:PORT_NO_IF_ANY]/ [the name of the project folder with directory]/` into the URL bar of the browser, which will take you to the index.php page. The process after that is already explained above.
  * **Note:-** I have used the CDN for CkEditor `<script src="//cdn.ckeditor.com/4.13.1/full/ckeditor.js"></script>`, in case, if it does not work, i have also added `ckeditor.zip` folder(in the `code` folder) which can be linked in the `writepost.php` page.
 
 # Project Demo
 A demo video is available on [demo-video]. Previews are also available on this repo in `Previews` Folder
 
 # More Info
-The project was created 11 months before today(28/8/2020) on PHP-7.0 version, i had used Ajax for the first time in this project and i also used a WYSIWYG editor (ckeditor) for the first time in this project.
+The project was created 11 months before today(28/8/2020) on PHP-7.0 version, i had used Ajax and i also used a WYSIWYG editor (ckeditor) for the first time in this project.
+
 The main aim of this project was for me to understand Ajax calls and WYSIWYG-Editor implementation.
